@@ -1,0 +1,1 @@
+# bradeco_acoplamento_componentes
